@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+BE THE ASS YOU WANT TO SEE ON YOUR GIRL.
 Use the left arrow to go back!
